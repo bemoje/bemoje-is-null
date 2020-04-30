@@ -1,6 +1,6 @@
 {
    "name": "@bemoje/is-null",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "description": "Returns true of value 'v' is null.",
    "main": "dist/is-null.umd.js",
    "module": "dist/is-null.esm.js",
@@ -47,7 +47,7 @@
    "dependencies": {},
    "devDependencies": {
       "babel-core": "^6.26.3",
-      "babel-jest": "^25.4.0",
+      "babel-jest": "^25.5.1",
       "babel-preset-env": "^1.7.0",
       "documentation": "^12.3.0",
       "esm": "^3.2.25",
